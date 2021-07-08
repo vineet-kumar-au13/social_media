@@ -43,11 +43,11 @@ const RightSideBar = () => {
                     https://www.youtube.com/c/DevATHTML
                 </a> */}
                 <small className="d-block">
-                    Welcome to V-Connect  Welcome to the future
+                    
                 </small>
 
                 <small>
-                   &copy; 2021 V-Connect FROM DEV MOHIT & AKARSH
+                   &copy; 2021 V-Connect 
                 </small>
             </div>
 
